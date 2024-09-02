@@ -26,7 +26,7 @@ NAME = "< Rustico John Ylaya />"
 DESCRIPTION = "Information Technology Student | Frontend Developer | UI/UX Designer"
 EMAIL = "ylayarusticojohn@email.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "www.linkedin.com/in/rastixylaya",
+    "LinkedIn": "https://linkedin.com/in/rastixylaya",
     "GitHub": "https://github.com/rastixylayax",
     "Facebook": "https://www.facebook.com/rastixylaya",
     "Instagram": "https://twitter.com/rastixylaya",
